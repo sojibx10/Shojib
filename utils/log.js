@@ -23,10 +23,10 @@ module.exports = (_0x283e1c, _0x15ce48) => {
 module.exports.loader = (_0x5e68ac, _0x2609c1) => {
   switch (_0x2609c1) {
     case "warn":
-      console.log(chalk.bold.hex(randomColor()).bold(" •─༅𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 ༅─• ") + chalk.bold.hex("#8B8878").bold(_0x5e68ac) + chalk.bold.hex("FF00DD")(''));
+      console.log(chalk.bold.hex(randomColor()).bold(" •─༅𝐒𝐔𝐉𝐎𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 ༅─• ") + chalk.bold.hex("#8B8878").bold(_0x5e68ac) + chalk.bold.hex("FF00DD")(''));
       break;
     case "error":
-      console.log(chalk.bold.hex(randomColor()).bold(" •─༅𝐒𝐇𝐀𝐇𝐀𝐃𝐀𝐓 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 ༅─• ") + _0x5e68ac + chalk.bold.hex("5EFF00")(''));
+      console.log(chalk.bold.hex(randomColor()).bold(" •─༅𝐒𝐔𝐉𝐎𝐍 𝐂𝐇𝐀𝐓 𝐁𝐎𝐓 ༅─• ") + _0x5e68ac + chalk.bold.hex("5EFF00")(''));
       break;
     default:
       console.log(chalk.bold.hex(randomColor()).bold("∞∞SUJON LOADED∞∞") + chalk.bold.hex(randomColor()).bold(_0x5e68ac) + chalk.bold.hex("FFF0000")(''));
