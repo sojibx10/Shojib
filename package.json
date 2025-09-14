@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "Sujon"
+    "url": "https://github.com/sujon-boss/SUJON-CHAT-BOT-V1.git"
   },
   "keywords": [
     "bot",
@@ -27,12 +27,12 @@
     "cybersujon",
     "sujon chat bot"
   ],
-  "author": "SUJON",
+  "author": "SUJON-BOSS",
   "license": "MIT",
   "bugs": {
     "url": "Sujon"
   },
-  "homepage": "Sujon",
+  "homepage": "https://github.com/sujon-boss/SUJON-CHAT-BOT-V1.git",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
