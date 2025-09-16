@@ -1,12 +1,12 @@
 const axios = require("axios");
-const simsim = "https://simsimi.cyberআমাকে.top";
+const simsim = "https://simsimi.cyberbot.top";
 
 module.exports.config = {
  name: "baby",
  version: "1.0.3",
  hasPermssion: 0,
  credits: "ULLASH",
- description: "Cute AI Baby Chatআমাকে | Talk, Teach & Chat with Emotion ☢️",
+ description: "Cute AI Baby Chatbot | Talk, Teach & Chat with Emotion ☢️",
  commandCategory: "simsim",
  usages: "[message/query]",
  cooldowns: 0,
