@@ -1,16 +1,15 @@
 {
-  "name": "SUJON CHAT BOT",
+  "name": "sujon-chat-bot",
   "version": "10.1.1",
   "description": "Made By SUJON",
   "main": "Sujon.js",
   "engines": {
-    "node": "20.x",
-    "npm": ">=10.0.0 <13.0.0"
+    "node": "20.x"
   },
   "scripts": {
     "start": "node Sujon.js",
-    "login": "node login",
-    "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+    "login": "node login.js",
+    "test": "node --trace-warnings --use_strict --async-stack-traces mirai.js"
   },
   "repository": {
     "type": "git",
@@ -23,15 +22,11 @@
     "messenger",
     "javascript",
     "sujon",
-    "ullash",
     "cybersujon",
     "sujon chat bot"
   ],
   "author": "SUJON-BOSS",
   "license": "MIT",
-  "bugs": {
-    "url": "Sujon"
-  },
   "homepage": "https://github.com/sujon-boss/SUJON-CHAT-BOT-V1.git",
   "dependencies": {
     "@distube/ytdl-core": "^4.13.2",
@@ -46,12 +41,10 @@
     "chalk": "^4.1.2",
     "chalkercli": "^1.6.4",
     "cheerio": "^0.22.0",
-    "child_process": "^1.0.2",
     "cloudscraper": "^4.6.0",
     "colors": "^1.4.0",
     "content-disposition": "^0.5.4",
     "cron": "^2.1.0",
-    "crypto": "^1.0.1",
     "crypto-js": "^4.1.1",
     "cyber-fca": "^2.0.0",
     "discord-chatbot": "^2.1.0",
@@ -66,7 +59,6 @@
     "form-data": "^4.0.0",
     "fs-extra": "^10.1.0",
     "googlethis": "^1.2.9",
-    "https": "^1.0.0",
     "idioms": "0.0.2",
     "image-downloader": "^4.3.0",
     "jimp": "^0.16.13",
@@ -87,13 +79,11 @@
     "node-schedule": "^2.1.1",
     "node-schedule-tz": "^1.2.1-4",
     "node-superfetch": "^0.2.3",
-    "npm": "^9.4.2",
     "npmlog": "^7.0.1",
     "nayan-api-servers": "^2.4.8",
     "nayan-media-downloaders": "^0.1.6",
     "openai": "^3.2.1",
     "opusscript": "0.0.8",
-    "os": "^0.1.2",
     "pastebin-api": "^4.0.1",
     "path": "^0.12.7",
     "pidusage": "^3.0.0",
